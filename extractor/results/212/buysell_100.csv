@@ -1,0 +1,4 @@
+Action,Time,Ticker,Name,No. of shares,Price / share,Currency (Price / share),Result,Total,Notes
+Market sell,2023-11-29 08:00:32,BT,BT Group,21.1052558,122.05,GBX,1.88,25.76,
+Market sell,2023-11-29 08:00:32,ISF,iShares Core FTSE 100 (Dist),5.9758249,727.9,GBX,-0.5,43.5,
+Market sell,2023-11-29 08:00:35,INRG,iShares Global Clean Energy (Dist),5.6374117,625.0,GBX,-8.77,35.23,

@@ -1,0 +1,12 @@
+Action,Time,Ticker,Name,No. of shares,Price / share,Currency (Price / share),Result,Total,Notes
+Dividend (Dividend),2023-11-14 11:58:52,TXN,Texas Instruments,0.3295623,1.11,USD,,0.3,
+Dividend (Dividend),2023-11-16 13:32:13,AAPL,Apple,0.5088623,0.2,USD,,0.08,
+Dividend (Dividend),2023-11-21 14:11:22,HYUD,Hyundai Motor,0.393121,0.44,USD,,0.14,
+Dividend (Dividend),2023-11-28 12:54:14,SMSN,Samsung Electronics,0.02632129,5.42,USD,,0.11,
+Dividend (Dividend),2023-11-29 12:36:18,INRG,iShares Global Clean Energy (Dist),5.6374117,3.52,GBX,,0.2,
+Dividend (Dividend),2023-12-01 15:16:13,INTC,Intel,1.623577,0.11,USD,,0.14,
+Dividend (Dividend),2023-12-01 15:21:08,F,Ford Motor,3.250706,0.13,USD,,0.33,
+Dividend (Dividend),2023-12-04 13:01:24,TM,Toyota Motor,0.1231668,1.7,USD,,0.16,
+Dividend (Dividend),2023-12-11 14:52:42,IBM,IBM,0.3862466,1.41,USD,,0.43,
+Dividend (Dividend),2023-12-12 08:50:38,SONY,Sony,0.251557,0.23,USD,,0.05,
+Dividend (Dividend),2023-12-14 09:36:40,MSFT,Microsoft,0.3843106,0.64,USD,,0.19,
